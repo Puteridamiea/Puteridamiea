@@ -32,6 +32,3 @@ Welcome to my GitHub profile! Here's a little about me:
 
 ---
 
-### Let's Connect!
-Feel free to explore my repositories, contribute, or just say hi! 😊
-
